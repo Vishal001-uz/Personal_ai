@@ -1,1 +1,2 @@
-# learning_management_system
+# personal ai
+A Python-based Personal AI Voice Assistant that uses wake-word detection, speech recognition, and a locally running LLM to interact with users through voice commands. Built with OpenWakeWord, Faster-Whisper, Ollama (Qwen2.5:7b), and Piper TTS, it supports real-time voice conversations, spoken AI responses, conversation history, and voice-based interruption. Designed to run locally on a computer.
